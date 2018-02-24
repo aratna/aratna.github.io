@@ -7,3 +7,10 @@ twitter:
   username: RatnaAbhi
 facebook:
  publisher: https://www.facebook.com/abhinav.ratna.9
+ social:
+  name: Abhinav Ratna
+  links:
+    - https://twitter.com/RatnaAbhi
+    - https://www.facebook.com/abhinav.ratna.9
+    - https://www.linkedin.com/in/abhinav-ratna-9167032a/
+    - https://github.com/aratna
